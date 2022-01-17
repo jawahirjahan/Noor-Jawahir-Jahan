@@ -1,0 +1,819 @@
+
+
+body {
+  background-image: url("https://cdn.shopify.com/s/files/1/0256/4358/1486/files/CTV3_Merch8.jpg?v=1598166643");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.containerabah {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageabah {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleabah {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerabah:hover .imageabah {
+  opacity: 0.3;
+}
+
+.containerabah:hover .middleabah {
+  opacity: 1;
+}
+
+.textabah {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+.containermak {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.imagemak {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlemak {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containermak:hover .imagemak {
+  opacity: 0.3;
+}
+
+.containermak:hover .middlemak{
+  opacity: 1;
+}
+
+.textmak {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+.containerakak {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageakak {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleakak {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerakak:hover .imageakak {
+  opacity: 0.3;
+}
+
+.containerakak:hover .middleakak {
+  opacity: 1;
+}
+
+.textakak {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+.containersteve {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagesteve {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlesteve {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containersteve:hover .imagesteve {
+  opacity: 0.3;
+}
+
+.containersteve:hover .middlesteve{
+  opacity: 1;
+}
+
+.textsteve {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+.containerabang {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageabang {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleabang {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerabang:hover .imageabang {
+  opacity: 0.3;
+}
+
+.containerabang:hover .middleabang {
+  opacity: 1;
+}
+
+.textabang {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+.containerqifie {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageqifie {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleqifie {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerqifie:hover .imageqifie {
+  opacity: 0.3;
+}
+
+.containerqifie:hover .middleqifie{
+  opacity: 1;
+}
+
+.textqifie {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+.containeralang {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagealang {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlealang {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containeralang:hover .imagealang {
+  opacity: 0.3;
+}
+
+.containeralang:hover .middlealang {
+  opacity: 1;
+}
+
+.textalang {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+.containerhafiz {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagehafiz {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlehafiz {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerhafiz:hover .imagehafiz {
+  opacity: 0.3;
+}
+
+.containerhafiz:hover .middlehafiz{
+  opacity: 1;
+}
+
+.texthafiz {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+
+.containeryah {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageyah {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleyah {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containeryah:hover .imageyah {
+  opacity: 0.3;
+}
+
+.containeryah:hover .middleyah {
+  opacity: 1;
+}
+
+.textyah {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+.containersven {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagesven {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlesven {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containersven:hover .imagesven {
+  opacity: 0.3;
+}
+
+.containersven:hover .middlesven{
+  opacity: 1;
+}
+
+.textsven {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+.containerbaby {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagebaby {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlebaby {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerbaby:hover .imagebaby {
+  opacity: 0.3;
+}
+
+.containerbaby:hover .middlebaby{
+  opacity: 1;
+}
+
+.textbaby {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+.containeradik {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageadik {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleadik {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containeradik:hover .imageadik {
+  opacity: 0.3;
+}
+
+.containeradik:hover .middleadik{
+  opacity: 1;
+}
+
+.textadik {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+.containerellie {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageellie {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleellie {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerellie:hover .imageellie {
+  opacity: 0.3;
+}
+
+.containerellie:hover .middleellie{
+  opacity: 1;
+}
+
+.textellie {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+.containerjudith {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagejudith {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middlejudith {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containerjudith:hover .imagejudith {
+  opacity: 0.3;
+}
+
+.containerjudith:hover .middlejudith{
+  opacity: 1;
+}
+
+.textjudith {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+
+
+
+.containertheo {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imagetheo {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middletheo {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containertheo:hover .imagetheo {
+  opacity: 0.3;
+}
+
+.containertheo:hover .middletheo{
+  opacity: 1;
+}
+
+.texttheo {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+
+
+
+.containeranggun {
+  position: relative;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.imageanggun {
+  opacity: 1;
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: .5s ease;
+  backface-visibility: hidden;
+}
+
+.middleanggun {
+  transition: .5s ease;
+  opacity: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.containeranggun:hover .imageanggun {
+  opacity: 0.3;
+}
+
+.containeranggun:hover .middleanggun{
+  opacity: 1;
+}
+
+.textanggun {
+  background-color: lightpink;
+  color: white;
+  font-size: 25px;
+  padding: 16px 32px;
+  font-family: "Courier New", monospace ;
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #ff9999;
+  font-family: Times New Roman;
+}
+
+.topnav a {
+  float: center;
+  display: inline-block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 10px 15px;
+  text-decoration: none;
+  font-size: 17px;
+  transition: 2s;
+}
+
+.topnav a:hover {
+  background-color: #ffffff;
+  color: #E799A3;
+  transition: 2s;
+}
+
+.topnav a.active {
+  background-color: #ffcccc;
+  color: white;
+}
